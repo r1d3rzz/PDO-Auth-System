@@ -1,0 +1,6 @@
+-----------------
+|Created Account|
+-----------------
+
+Email --> rider@gmail.com
+Password --> rider
